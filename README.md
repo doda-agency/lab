@@ -1,6 +1,6 @@
-# Neumorphism <!-- omit in toc -->
+# lab <!-- omit in toc -->
 
-> Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
+> lab designed Jekyll theme for personal websites, portfolios and resumes.
 
 [![Open Issues](https://badgen.net/github/open-issues/miorey/neumorphism-flat)](https://github.com/miorey/neumorphism-flat/issues)
 [![License](https://badgen.net/github/license/miorey/neumorphism-flat)](LICENSE)
